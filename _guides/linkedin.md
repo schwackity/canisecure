@@ -1,21 +1,21 @@
 ---
 title: "Linkedin"
-updated: "2019-09-20"
+updated: "2021-08-23""
 category: "Account Security"
 ---
 
-Don't make yourself a target through your LinkedIn profile. If you work in a high-risk field, like cryptocurrency, we highly recommend *against* broadcasting that information to the Internet (e.g., don't say where you work, don't call yourself a crypto evangelist and don't say you attend monthly crypto meetups)
+Stealth is the new black. Don't make yourself a target if you don't have to. It's easy to attract the wrong kinds of attention, though. Tthrough your LinkedIn profile, for example,  by revealing more information than you need to just to get a little (or no) value from sharing it. This is especially true if you work in a field, like cryptocurrency, that attracts criminals. We highly recommend *against* broadcasting that you're into crypto and/or bragging in genereral to the Internet (e.g., don't say where you work, don't call yourself a crypto evangelist and don't say you attend monthly crypto meetups, for example). Fly low and avoid showing up on any unwanted radar. That's what this guide is here --> to help you reduce your attack surface while still gaining value from using a platform designed to connect people.
 
 Locking Down Your Account
 =========================
+You can use LinkedIn, while still maintaining a decent level of discretion. Here are some tips:
+Choose **Settings and Privacy**:
 
-Navigate to your account information to view your **LinkedIn Security & Privacy** settings:
+1.  Click the **Me** icon in the top-right of your LinkedIn homepage`
+2.  Choose  **Settings & Privacy**
+3.  Click the **Sign in & security** tab along the left side 
 
-1.  Click the **Me** icon at the top of your LinkedIn homepage.
-2.  Select **Settings & Privacy** from the dropdown.
-3.  Click the **Account** tab at the top of the page. 
-
-     Login and Security
+     Account Access
 
     -   **Email Addresses** - Any email you have here must have a strong password, 2FA (Google Auth or YubiKey, no SMS) and disabled SMS recovery capabilities.  
     -   **Phone numbers** - This is unfortunately the only method of 2FA for LinkedIn, but you should make sure that the phone number has "Use for password reset" unchecked. Use a phone number that is NOT your mobile number like a Google Voice number. We will limit who can see this phone number or find you via it in a later section.
